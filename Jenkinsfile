@@ -2,7 +2,7 @@ pipeline {
 
 	agent any
 	tools {
- 		 maven 'm398'
+ 		 maven 'm389'
 		}
 
 	stages {
